@@ -1,4 +1,5 @@
 # EliteCorp
+[a Live Preview](https://ahmedali5696.github.io/resume/projects/elite-corp/)
 
 ## Landing Page Design
 
@@ -13,9 +14,3 @@
 ## Photos
 ### - Desktop
 ![](https://github.com/ahmedali5696/MyProjects/blob/master/Elite/Desktop.png)
-
-### - Tablet
-![](https://github.com/ahmedali5696/MyProjects/blob/master/Elite/Tablet.png)
-
-### - Mobile
-![](https://github.com/ahmedali5696/MyProjects/blob/master/Elite/Mobile.png)
