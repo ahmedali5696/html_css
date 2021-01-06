@@ -1,5 +1,5 @@
 # EliteCorp
-[a Live Preview](https://ahmedali5696.github.io/resume/projects/elite-corp/)
+[Live Preview](https://ahmedali5696.github.io/resume/projects/elite-corp/)
 
 ## Landing Page Design
 
