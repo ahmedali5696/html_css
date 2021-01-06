@@ -12,5 +12,3 @@ A perfect template for web studio and creative agencies
 
 ## Photos
 ![](https://github.com/ahmedali5696/MyProjects/blob/master/TheOne.png)
-
-![](https://github.com/ahmedali5696/MyProjects/blob/master/TheOne/screen.png)
