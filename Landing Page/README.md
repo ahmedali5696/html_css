@@ -10,7 +10,7 @@
 - Bootstrap v4.1
 - Font Awesome v4.7.0
 - Jquery
+- Owl Carousel
 
 ## Photos
-### - Desktop
 ![](https://raw.githubusercontent.com/ahmedali5696/html_css/main/Landing%20Page/Screenshot_1.png)
