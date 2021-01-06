@@ -1,4 +1,5 @@
 # Payoneer
+[Live Preview](https://ahmedali5696.github.io/resume/projects/payoneer)
 
 Design is similar to the Payoneer Bank site consists of 5 pages include Home Page 
 - HTML5 & CSS3
@@ -11,8 +12,3 @@ Design is similar to the Payoneer Bank site consists of 5 pages include Home Pag
 
 ## Photos
 ![](https://github.com/ahmedali5696/MyProjects/blob/master/Payoneer.png)
-![](https://github.com/ahmedali5696/MyProjects/blob/master/Payoneer/1.png)
-
-
-![](https://github.com/ahmedali5696/MyProjects/blob/master/Payoneer/2.png)
-![](https://github.com/ahmedali5696/MyProjects/blob/master/Payoneer/3.png)
